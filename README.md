@@ -8,6 +8,8 @@
 
 ## App running
 
+All the graphs are interactive. They can be zoomed in and out by pinching the screen.
+
 #### Activity in a day
 
 <img src="images/activity.png" width="350px" height="550px" />
