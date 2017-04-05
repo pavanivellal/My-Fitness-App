@@ -8,17 +8,18 @@
 
 ## App running
 
-#### Registration
-<img src="images/registration.png" width="250px" height="400px" />
-
 #### Activity in a day
-<img src="images/activity.png" width="250px" height="400px" />
+
+<img src="images/activity.png" width="350px" height="550px" />
 
 #### Calorie Burn over time
-<img src="images/calorieBurn.png" width="250px" height="400px" />
+<img src="images/calorieBurn.png" width="350px" height="550px" />
 
 #### Sleep over Calories Burnt
-<img src="images/calorieBurn.png" width="250px" height="400px" />
+<img src="images/sleep.png" width="350px" height="550px" />
+
+#### Registration
+<img src="images/registration.png" width="350px" height="550px" />
 
 
 ## Motivation
